@@ -5,7 +5,9 @@
 3、创建 README.md 项目的信息
 4、项目 package.json. 根目录下执行 cmd:npm init 修改"main"："app.js"
 5、创建app.js
-
+6、创建目录 views
+7、创建 views/default.html 这是项目的homepage 有sign in sign up链接
+8、创建文件views/sign-in.html,views/sign-up.html 含有登录和注册的表单
 -------------------------------------------------------------------
 Github
 1、系统用户目录下，创建 .gitconfig
